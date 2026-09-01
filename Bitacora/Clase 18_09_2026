@@ -5,33 +5,33 @@
 
 - Estructura completa de la bitacora
 
-  # Nombre del equipo: "Connect Hub". Se eligio este nombre ya que tiene una gran conexion con el objetivo de nuestro proyecto y 
-  ademas se le agrega el lugar que sera beneficiado.
+  # Nombre del equipo: "PluvioRed". Se eligio este nombre ya que tiene una gran conexion con el como realizaremos el proyecto.
   
-  # Valores del equipo: *Colaboracion *Proactividad *Responsabilidad *Innovacion. Se eligieron estos valores ya que creemos que son fundamentales para mejorar y avanzar como equipo.
+  # Valores del equipo: *Adaptabilidad *Proactividad *Responsabilidad *Colaboración. Se eligieron estos valores ya que creemos que son fundamentales para mejorar y avanzar como equipo.
   
   # Normas del equipo:
 
    * Cumplir estrictamente con fechas limites para el desarrrollo y entrega del prototipo.
    * Mantener un ambiente de respeto y escucha activa frente a todas las ideas u opiniones del equipo.
-   * Asistir puntualmente a todas las reuniones de coordinacion.
+   * Garantizar que todas las decisiones de diseño prioricen el bajo costo y la escalabilidad del sistema hacia otras quebradas. 
+   * Dividir la carga de trabajo de manera equitativa y comunicar de inmediato si existe algún bloqueo o problema técnico
      Las normas antes mencionadas se buscan seguir al pie de la letra, ya que gracias a estas podremos tener un ambiente de trabajo proactivo.
   
-  # Desafio del equipo: "Diseñar e implementar una solucion tecnologica que permita registrar, segmentar y analizar los patrones de uso de las personas en el Hub Providencia,
-  optimizando el proceso de ingreso actual y visualizando los datos en un dashboard para apoyar la toma de decisiones de gestion"
+  # Desafio del equipo: " Desarrollar y probar una solución tecnológica de bajo costo que automatice el monitoreo comunitario de precipitaciones y temperatura en San José de Maipo, integrando datos de pluviómetros 
+    y reportes ciudadanos en una interfaz capaz de operar con conectividad limitada, para apoyar la gestión preventiva de riesgo de aluviones."
   
   # Declaracion Smart de cada integrante del equipo:
 
-   * Declaracion Smart de Victor Manquelipe: "Yo, Victor, me comprometo a dedicar mi maximo esfuerzo y responsabilidad en el desarrollo de este proyecto capostone, cumpliendo
-    mis plazos y colaborando con respeto junto a mi equipo. Especificamente, estructurare la base de datos de usuarios del Hub y ejecutare una prueba con 50 registros simulados
-    para etregar un sistema funcional y de claidad que aporte al equipo"
+   * Declaracion Smart de Victor Manquelipe: "Yo, Víctor, me comprometo a dedicar mi máximo esfuerzo y responsabilidad en el desarrollo de este Proyecto Capstone. Asumo el compromiso de cumplir con mis tareas en los 
+     plazos establecidos, participar activamente y colaborar con respeto junto a mi equipo para evaluar y configurar los sensores de precipitación de bajo costo,
+     registrando al menos dos pruebas de funcionamiento físico de captura de datos antes del 20 de septiembre, para entregar un sistema funcional y de calidad que aporte al equipo."
    *  Declaracion Smart de Martin Fariña: ""
    *  Declaracion Smart de Constanza Constenla: ""
    *  Declaracion Smart de Pauline Fauconnier: ""
 
-  # Declaracion Smart Connecthub: "Nosotros como equipo de este proyecto capstone, nos compremetemos a diseñar e implementar un prototipo funcional de registro y una base de
-    datos estructurada para caracterizar a los usuarios del Hub Providencia. Validaremos el sistema mediante la carga de registros simulados que alimentan un Dashboard
-    interactivo, con el objetivo de tener la solucion operativa al termino de este proyecto"
+  # Declaracion Smart Connecthub: "Nosotros, como equipo de este Proyecto Capstone, nos comprometemos a desarrollar y probar un prototipo de pluviómetro inteligente de bajo costo y una interfaz móvil para el monitoreo
+    de aluviones en San José de Maipo. Validaremos el sistema demostrando su capacidad para registrar datos instrumentales y reportes ciudadanos bajo condiciones de conectividad limitada,
+    con el objetivo de tener el modelo operativo completamente funcional en un plazo de 4 semanas."
 
 
 
