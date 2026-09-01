@@ -1,37 +1,92 @@
-- Planificacion de Equipo
- 
- Participantes: Constanza Constenla, Martin Fariña, Victor Manquelipe y Pauline Fauconnier.
- Lugar: Universidad Mayor
+# S01 - Identidad del equipo y desafío
 
-- Estructura completa de la bitacora
+**Fecha:** 31-08-2026  
+**Participantes:** Victor Manquelipe, Constanza Constenla, Martin Fariña  
+**Lugar o modalidad:** Cajon del Maipo / presencial
 
-  # Nombre del equipo: "GeoAlerta". Se eligio este nombre ya que tiene una gran conexion con el como realizaremos el proyecto.
-  
-  # Valores del equipo: *Adaptabilidad *Proactividad *Responsabilidad *Colaboración. Se eligieron estos valores ya que creemos que son fundamentales para mejorar y avanzar como equipo.
-  
-  # Normas del equipo:
+## Objetivo de la sesión
 
-   * Cumplir estrictamente con fechas limites para el desarrrollo y entrega del prototipo.
-   * Mantener un ambiente de respeto y escucha activa frente a todas las ideas u opiniones del equipo.
-   * Garantizar que todas las decisiones de diseño prioricen el bajo costo y la escalabilidad del sistema hacia otras quebradas. 
-   * Dividir la carga de trabajo de manera equitativa y comunicar de inmediato si existe algún bloqueo o problema técnico
-     Las normas antes mencionadas se buscan seguir al pie de la letra, ya que gracias a estas podremos tener un ambiente de trabajo proactivo.
-  
-  # Desafio del equipo: " Desarrollar y probar una solución tecnológica de bajo costo que automatice el monitoreo comunitario de precipitaciones y temperatura en San José de Maipo, integrando datos de pluviómetros 
-    y reportes ciudadanos en una interfaz capaz de operar con conectividad limitada, para apoyar la gestión preventiva de riesgo de aluviones."
-  
-  # Declaracion Smart de cada integrante del equipo:
+Construir la identidad del equipo, acordar su forma de trabajo y realizar una primera interpretación del desafío Capstone.
 
-   * Declaracion Smart de Victor Manquelipe: "Yo, Víctor, me comprometo a dedicar mi máximo esfuerzo y responsabilidad en el desarrollo de este Proyecto Capstone. Asumo el compromiso de cumplir con mis tareas en los 
-     plazos establecidos, participar activamente y colaborar con respeto junto a mi equipo para evaluar y configurar los sensores de precipitación de bajo costo,
-     registrando al menos dos pruebas de funcionamiento físico de captura de datos antes del 20 de septiembre, para entregar un sistema funcional y de calidad que aporte al equipo."
-   *  Declaracion Smart de Martin Fariña: ""
-   *  Declaracion Smart de Constanza Constenla: ""
-   *  Declaracion Smart de Pauline Fauconnier: ""
+## Foto del equipo
 
-  # Declaracion Smart Connecthub: "Nosotros, como equipo de este Proyecto Capstone, nos comprometemos a desarrollar y probar un prototipo de pluviómetro inteligente de bajo costo y una interfaz móvil para el monitoreo
-    de aluviones en San José de Maipo. Validaremos el sistema demostrando su capacidad para registrar datos instrumentales y reportes ciudadanos bajo condiciones de conectividad limitada,
-    con el objetivo de tener el modelo operativo completamente funcional en un plazo de 4 semanas."
+![Foto del equipo](../imagenes/S01/foto-equipo.jpg)
 
+## Nombre del equipo
 
+**Nombre:** GeoAlerta
 
+**¿Por qué lo elegimos?**  
+Se eligió este nombre ya que tiene una gran conexión con el cómo realizaremos el proyecto, enfocándonos en la geografía del territorio y la necesidad de emitir alertas tempranas para la prevención de riesgos.
+
+## Integrantes y roles iniciales
+
+| Integrante | Carrera o especialidad | Rol inicial | Aporte esperado |
+|---|---|---|---|
+| Victor Manquelipe | Ingenieria Civil Electronica | Apoyo en Plataforma / Hardware | Evaluar, configurar e integrar los microcontroladores y sensores de precipitación de bajo costo. |
+| Constanza Constenla | Ingenieria Civil Industrial | Visita a Terreno / Procesos | Levantamiento de requerimientos con la comunidad y validación operativa del sistema en el territorio. |
+| Martin Fariña | Ingeniería Civil en Computacion e Informatica | Creacion de Aplicacion / Software | Programación de la interfaz móvil, almacenamiento offline y lógica de sincronización de base de datos. |
+
+## Valores del equipo
+
+- Adaptabilidad
+- Proactividad
+- Colaboracion
+- Compromiso social
+
+## Normas y contrato de funcionamiento
+
+1. Cumplir estrictamente con los plazos establecidos para el desarrollo y entrega de los avances del prototipo.
+2. Mantener una comunicación activa, transparente y respetuosa, donde toda idea u opinión sea escuchada.
+3. Dividir la carga de trabajo de manera equitativa y comunicar de inmediato si existe algún bloqueo o problema técnico.
+4. Garantizar que todas las decisiones de diseño prioricen el bajo costo y la escalabilidad del sistema hacia otras quebradas.
+
+## Primera definición del desafío
+
+El equipo entiende que debe desarrollar y probar una solución tecnológica de bajo costo que automatice el monitoreo comunitario de precipitaciones y temperatura en San José de Maipo, integrando datos de pluviómetros y reportes ciudadanos en una interfaz capaz de operar con conectividad limitada, para apoyar la gestión preventiva de riesgo de aluviones.
+
+### Lo que sabemos
+
+- SERNAGEOMIN (a través de SIGMA) tiene identificadas aproximadamente 105 quebradas susceptibles a aluviones en la comuna, con cerca de 50 de ellas presentando población directamente expuesta al riesgo.
+- El monitoreo preventivo actual se sostiene en observadores locales y pluviómetros artesanales, registrándose los datos de forma enteramente manual y dispersa bajo conectividad limitada.
+
+### Lo que todavía no sabemos
+
+- ¿Cómo ocurre exactamente la comunicación de un observador local hacia SERNAGEOMIN o SENAPRED cuando se cortan los caminos y no hay señal telefónica?
+- ¿Qué sensores de lluvia y temperatura de bajo costo soportan mejor las condiciones climáticas extremas de la precordillera?
+
+### Supuestos que debemos comprobar
+
+- Asumimos que la falta de un sistema automatizado y la nula señal de internet en ciertas zonas son las principales causas del retraso en la toma de decisiones para evacuación.
+- Asumimos que una aplicación móvil con almacenamiento offline será aceptada y utilizada fácilmente por la comunidad de observadores locales sin volverse una carga burocrática adicional.
+
+## Objetivo SMART del equipo
+
+Nosotros, como equipo de este Proyecto Capstone, nos comprometemos a desarrollar y probar un prototipo de pluviómetro inteligente de bajo costo y una interfaz móvil para el monitoreo de aluviones en San José de Maipo. Validaremos el sistema demostrando su capacidad para registrar datos instrumentales y reportes ciudadanos bajo condiciones de conectividad limitada, con el objetivo de tener el modelo operativo completamente funcional en un plazo de 4 semanas.
+
+## Compromisos individuales SMART
+
+| Integrante | Compromiso | Evidencia de cumplimiento | Fecha |
+|---|---|---|---|
+| Victor Manquelipe | Evaluar y configurar los sensores de precipitación y temperatura de bajo costo para automatizar la captura. | Dos pruebas de funcionamiento físico exitosas de captura de datos registradas en video. | 20-09-2026 |
+| Constanza Constenla | Diseñar el flujo de levantamiento de información y testear el registro manual con observadores simulados. | Documento de requerimientos operativos validado con al menos 5 pruebas de usabilidad. | 20-09-2026 |
+| Martin Fariña | Programar la lógica de almacenamiento offline de la aplicación y la base de datos centralizada. | Simulación exitosa de retención de datos sin red y sincronización posterior comprobada. | 25-09-2026 |
+
+## Acuerdos y tareas
+
+| Tarea | Responsable(s) | Fecha límite | Estado |
+|---|---|---|---|
+| Cotizar y adquirir los microcontroladores y sensores iniciales. | Victor Manquelipe | 05-09-2026 | Pendiente |
+| Diseñar los wireframes (bocetos) de la interfaz de la aplicación móvil. | Martin Fariña | 10-09-2026 | Pendiente |
+| Coordinar fechas y logística para la primera inmersión y visita a terreno en el Cajón del Maipo. | Constanza Constenla | 08-09-2026 | Pendiente |
+
+## Reflexión breve
+
+**¿Qué fue fácil?**  
+Definir los valores, normas del equipo y estructurar el problema basándonos en los datos duros proporcionados por SERNAGEOMIN y la plataforma SIGMA.
+
+**¿Qué fue difícil o generó desacuerdo?**  
+Delimitar el alcance técnico del prototipo para las 4 semanas establecidas, determinando exactamente hasta qué punto se desarrollará el hardware físico (sensores) y hasta dónde llegará el software (aplicación offline).
+
+**¿Qué necesitamos resolver en la próxima sesión?**  
+Definir la arquitectura de red y los protocolos de comunicación exactos que usará el pluviómetro inteligente para conectarse con la interfaz móvil cuando haya intermitencia de señal.
